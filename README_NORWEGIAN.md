@@ -244,7 +244,7 @@ Det ser rent ut. Det høres autoritativt ut. Men det kan være feil, forenklet, 
 
 **Med AEGIS**
 
-> Det finnes ikke én eneste eksakt lengde på Norges kystlinje. Den målte totalen avhenger av definisjon og målemetode. Hvis en bestemt standard velges, kan et kvalifisert tall oppgis for akkurat det omfanget.
+> Det finnes ikke én eksakt lengde på Norges kystlinje. Den målte totalen avhenger av definisjon og målemetode. Hvis en bestemt standard velges, kan et kvalifisert tall oppgis for akkurat det omfanget.
 
 Dette svaret er mindre tilfredsstillende ved første øyekast. Men det er også langt mindre sannsynlig at det smugler inn falsk presisjon.
 
@@ -549,3 +549,4 @@ Dette repositoryet er lisensiert under **Apache License 2.0**.
 
 
 **AEGIS er en standard for å gjøre en overbevisende tekstgenerator om til et avgrenset beslutningssystem for fakta.**
+
