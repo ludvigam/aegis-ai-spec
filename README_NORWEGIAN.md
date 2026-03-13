@@ -226,7 +226,7 @@ Spørsmålet høres ut som et enkelt faktasøk, men størrelsen avhenger av defi
 
 **AEGIS-svarform**
 
-- si at det ikke finnes én eneste eksakt lengde
+- si at det ikke finnes én eksakt lengde
 - forklar hvorfor
 - oppgi bare kvalifiserte tall som er avgrenset av kilde og definisjon
 
@@ -546,5 +546,6 @@ Dette repositoryet er lisensiert under **Apache License 2.0**.
 - Hvis du endrer filer og redistribuerer dem, behold lisens- og notice-filene, og marker vesentlige endringer i de modifiserte filene.
 
 ## I én linje
+
 
 **AEGIS er en standard for å gjøre en overbevisende tekstgenerator om til et avgrenset beslutningssystem for fakta.**
