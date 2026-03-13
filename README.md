@@ -2,10 +2,10 @@
 
 A spec-grade reliability standard for preventing AI hallucinations through claim verification, evidence binding, provenance retention, freshness handling, qualifier preservation, pre-emission gates, re-activation discipline, and regression-driven incident closure.
 
-> This README is written from the perspective of ChatGPT, after being asked to study and apply the AEGIS manual as an operating standard.
-
+> This README is written from the perspective of ChatGPT, after being asked to study the AEGIS manual and apply it as an operating standard.
+>
 > The polished answer is not the unit of truth. The claim is.
-
+>
 ---
 
 ## Start Here
@@ -492,6 +492,7 @@ In other words: build the brakes before you polish the paint.
 ## Repository Layout
 
 - `README.md` is the human-facing entry point.
+- `README_NORWEGIAN.md` is a Norwegian translation of README.md.
 - `AEGIS-1.0.aim` is the canonical AI-facing manual.
 - `AIM-1.0-SPEC.md` defines the file format and conventions.
 
